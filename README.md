@@ -43,11 +43,11 @@ Apart from blogging, I enjoy working on web design, improving my coding skills, 
 
 ## 📰 Content Categories I Cover  
 
--  Latest **Tech News**  
+-  **Latest Tech News**  
 -  **Android OS Updates & New Features**  
 -  **WhatsApp Beta & Upcoming Features**  
 -  **Instagram Updates & Policy Changes**  
--   How-to Guides & Feature Explainers  
+-  **How-to Guides & Feature Explainers**
 
 ---
 
