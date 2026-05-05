@@ -25,10 +25,19 @@ Latest Tech News • Android Updates • WhatsApp Beta Features • Instagram Up
 
 ## 👨‍💻 About Me
 
-I am **Somnath Mahato**, a **blogger and digital content creator** focused on delivering  
-**latest tech news, Android updates, WhatsApp new features, and Instagram changes** in a simple and user-friendly way.
+Hi, I’m Somnath Mahato.
 
-My goal is to create **SEO-optimized, Google Discover-friendly tech content** that helps users stay updated with real and reliable information.
+
+I am a passionate **Frontend Developer and Tech Blogger** from Jharkhand, India. I love exploring new technologies and sharing useful updates related to social media platforms like WhatsApp, Instagram, and Facebook.
+
+
+On this website, I regularly post about the **latest tech updates, beta features, AI tools, and frontend development tips.** My goal is to make technology simple and easy to understand for everyone.
+
+
+I started this platform to share my knowledge, learn new things, and help others stay updated in the fast-changing world of technology.
+
+
+Apart from blogging, I enjoy working on web design, improving my coding skills, and building modern, responsive websites.
 
 ---
 
@@ -53,7 +62,11 @@ My goal is to create **SEO-optimized, Google Discover-friendly tech content** th
 
 **Skills:**  
 ✔️ HTML5  
-✔️ CSS3  
+✔️ CSS3 
+✔️ Javascript
+✔️ React
+✔️ Tailwind
+✔️ Firebase 
 ✔️ Java (Basics)  
 ✔️ Blogger Customization  
 ✔️ SEO & Content Optimization  
@@ -69,7 +82,7 @@ My goal is to create **SEO-optimized, Google Discover-friendly tech content** th
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-Tech%20News-black?style=for-the-badge&logo=x"/>
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/somnathmahato.in" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Tech%20Creator-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="https://github.com/" target="_blank">
