@@ -91,7 +91,6 @@ Apart from blogging, I enjoy working on web design, improving my coding skills, 
   <a rel="me" href="https://mastodon.social/@somnathmahato" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon Profile">
 </a>
-<a rel="me" href="https://mastodon.social/@somnathmahato">Mastodon</a>
 </p>
 
 ---
